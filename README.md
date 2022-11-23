@@ -12,5 +12,9 @@ Any data visualization tool can create a graph to show your data  but none of th
   * Avoid using tables in live presentation - odds are there is a better way to pull out and visualize the pieces or piece of interest. If you are loosing too much by this , consider including the full table in the appendix and use a link or reference to it
   * The table design should fade into the background , data takes center stage
   * Use light borders, greyed out or remove them and use white space to set apart table elements
-  * 
+  
+* Heat Maps - This is a special case of tables that leverages colored cells to convey the relative magnitude of the numbers
+  * Always include a legende - e.g a low to hugh subtitle with respective colors
+
+* 
 
