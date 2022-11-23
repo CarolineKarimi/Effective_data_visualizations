@@ -16,5 +16,8 @@ Any data visualization tool can create a graph to show your data  but none of th
 * Heat Maps - This is a special case of tables that leverages colored cells to convey the relative magnitude of the numbers
   * Always include a legende - e.g a low to hugh subtitle with respective colors
 
-* 
+A well designed graph will always get information across quickly than a well designed table
+
+* Scatter Plot - Effective for showing relationships between two things
+  * Cponsider your intention and what you want to draw attention to and leverage color, text and font size
 
