@@ -19,5 +19,15 @@ Any data visualization tool can create a graph to show your data  but none of th
 A well designed graph will always get information across quickly than a well designed table
 
 * Scatter Plot - Effective for showing relationships between two things
-  * Cponsider your intention and what you want to draw attention to and leverage color, text and font size
+  * Consider your intention and what you want to draw attention to and leverage color, text and font size
 
+* Line graph - very effective for plotting continous data , often some unit of time (days,months , quarters, years)
+  * standard line graph - can show  one , two or multiple series of data
+  * Slope graph - effective for showing relative increases/ decreases /differences across various categories when you have 2 periods or points of comparison
+  
+  * Data plotted should always be in consistent intervals
+  * If plotting a summary statistic like an average or point estimate of a forecast , consider also visualizig the range
+  * If many lines overlap in a slope graph , consider using another chart type or using color to emphasize important categories
+  
+* Bar charts 
+  
