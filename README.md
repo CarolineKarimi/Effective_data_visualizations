@@ -30,6 +30,10 @@ A well designed graph will always get information across quickly than a well des
   * If many lines overlap in a slope graph , consider using another chart type or using color to emphasize important categories
   
 * Bar charts - bars should be a go to chart when plotting categorical data where information is organized in groups.
+  * Vertical Bar chart - Can be used with single , two or multiple series but as you add more series it becomes harder to focus on one at a time.The relative order of categorization is always important
+  * Stacked vertical bar chart - Allow comparison across categories while at the same time showing subcomponents of each category.Consider adding absolute numbers for each category in the graph to aid interpretation.
+  * Waterfall Chart - Used to pull apart pieces of a stacked bar chart to focus one at a time or show starting point , increase or decrease and resulting end point.
+  * Horizontal bar chart
 
 
 
