@@ -29,5 +29,17 @@ A well designed graph will always get information across quickly than a well des
   * If plotting a summary statistic like an average or point estimate of a forecast , consider also visualizig the range
   * If many lines overlap in a slope graph , consider using another chart type or using color to emphasize important categories
   
-* Bar charts 
+* Bar charts - bars should be a go to chart when plotting categorical data where information is organized in groups.
+
+
+
+
+  * They should always have a zero baseline
+  * Y axis labels should be on the left side of the visual
+  * Data labels should be inside bars to reduce clutter
+  * If data labels are outside , omit Y axis labels to reduce redundancy
+  * When chosing between axis and data labels- consider level of specificity you need:
+    * If intent is to show big picture trends , preserve both labels and de-emphasize axis labels , grey them out
+    * If intent is to emphasize on specific numerical values , keep data labels and omit axis labels
+  * Bar width should always be wider than the whitespace between them but not too wide as this risks width comparisons by your audience
   
